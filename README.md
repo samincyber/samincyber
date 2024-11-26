@@ -1,3 +1,5 @@
+
+
 <br>
 <br>
 
@@ -47,6 +49,13 @@
 >
 > <br>
 >
+>
+> <p style="text-align: center;">
+>  <img src="https://drive.google.com/uc?export=view&id=1YupIsUn7c6oeW1T46-iJerXSWtSJbIaz" alt="Image">
+> </p>
+>
+>
+>
 > <h4 align="center">WHAT WE DO?</h4>
 >
 > 
@@ -63,6 +72,10 @@
 >
 > <br>
 >
+>----------
+>
+> <br>
+>
 > <h4 align="center">WHO IS A SUPERUSER?</h4>
 >
 > 
@@ -76,6 +89,10 @@
 > - **Contributions to the community**: Active in open-source projects, technical documentation, and training initiatives.  
 >
 > Superusers are often self-taught or continuously updating their knowledge to stay at the forefront of the tech industry. They play a critical role in managing and securing computing environments and are pivotal in mitigating cybersecurity threats.  
+>
+> <br>
+>
+>----------
 >
 > <br>
 >

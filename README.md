@@ -52,4 +52,23 @@ Together, we can redefine the boundaries of cybersecurity and work toward a futu
 
 <br><br><br><br><br><br><br><br>
 
+<h1 align="center">MY CORE PRINCIPLES FOR EFFECTIVE CYBERSECURITY LEADERSHIP.</h1>
+
+<br>
+
+> -----
+>
+> ![image](https://pbs.twimg.com/media/GiZOiRGWIAAVyIu?format=jpg&name=large)
+>
+> -----
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/samincyber/samincyber/blob/main/Core_Leadership_Principles.md">
+        <img src="https://img.shields.io/badge/LEARN%20NOW-007bff?style=for-the-badge&labelColor=000000" alt="LEARN NOW" style="margin: 10px;">
+    </a>
+</p>
+
+<br><br><br><br>
  

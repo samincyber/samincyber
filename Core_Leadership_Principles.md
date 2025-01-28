@@ -26,14 +26,16 @@
  
 <h1 align="center">MY CORE PRINCIPLES FOR EFFECTIVE CYBERSECURITY LEADERSHIP.</h1>
 
+<br><br><br><br>
+
 > -----
 >
 > ![image](https://pbs.twimg.com/media/GiZOiRGWIAAVyIu?format=jpg&name=large)
 >
 > -----
 
+<br><br><br><br>
 
-<br><br><br><br><br><br><br><br>
 
 1. **Foster a Culture of Coaching Excellence:**  I embrace a leadership style that emphasizes continuous development and growth in the cybersecurity domain. I provide detailed and actionable feedback to inspire both individual and team improvement. By cultivating an environment of trust and collaboration, I actively engage with concerns, foster open communication, and address challenges with empathy. I lead tailored problem-solving initiatives, creating opportunities for teams to learn and grow. Reinforcing strengths and addressing areas for improvement ensures that teams and clients adapt to evolving cybersecurity landscapes. My overarching goal is to establish a resilient, adaptable, and proactive cybersecurity culture that prioritizes excellence.
 

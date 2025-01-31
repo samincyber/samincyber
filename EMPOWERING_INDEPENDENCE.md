@@ -92,7 +92,7 @@ The software engineering landscape is vast, dynamic, and ever-changing. Understa
 
 > -----
 >
-> ### TABLE OF CONTENTS:
+> ### KEY CONCEPTS:
 >
 >**Introduction**
 >   - The Importance of Self-Taught Learning

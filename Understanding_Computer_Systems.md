@@ -21,7 +21,64 @@
     </a>
 </p>
 
-<br><br><br><br>
+
+
+
+<br><br><br><br><br><br><br><br>
+
+> -----
+> 
+>
+> ## SCIENCE, ENGINEERING, AND TECHNOLOGY ARE NOT MERELY CAREERS—THEY ARE THE DYNAMIC FORCES THAT SHAPE CIVILIZATION. HISTORY’S MOST SIGNIFICANT BREAKTHROUGHS HAVE NOT EMERGED SOLELY FROM THEORIES OR TEXTBOOKS; THEY HAVE BEEN FORGED IN THE CRUCIBLE OF BOLD IDEAS, RELENTLESS INNOVATION, AND DECISIVE ACTION. AS AN ENGINEER, YOUR POTENTIAL IS BOUNDLESS—LIMITED ONLY BY THE SCALE OF YOUR VISION AND THE COURAGE TO ACT. WE ENCOURAGE YOU TO THINK BOLDLY, PUSH BOUNDARIES, AND CHALLENGE LIMITS; WHEN DETERMINATION MEETS INGENUITY, NO OBSTACLE IS INSURMOUNTABLE.
+> <br><br>
+>
+> <h3 align="center">NOTICE</h3>
+>
+> <br>
+>
+> The Administration hereby informs all users that this platform proudly offers comprehensive, multidisciplinary research documentation under the guiding principles of open knowledge, collaboration, and innovation. By accessing or using the resources provided herein, users agree to abide by the terms of use, which are strictly in accordance with applicable cyber laws.
+>
+> This repository is dedicated to fostering innovation and promoting open knowledge-sharing across the transformative fields of science, engineering, and technology. Our carefully curated collection includes research papers, in-depth tutorials, step-by-step guides, and software documentation, all available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+>
+> Designed for a diverse audience—from curious learners to seasoned professionals—this repository bridges the gap between theoretical concepts and real-world applications. Whether you are engaged in scientific research, engineering projects, the exploration of emerging technologies, or the mastery of complex software tools, you will find the resources necessary to transform ideas into impactful solutions.
+>
+> With a commitment to adaptability and lifelong learning, the repository evolves alongside the rapidly changing technological landscape, fostering collaboration and intellectual growth. The Administration’s mission is to cultivate a global community of scientists, engineers, and technologists who drive progress, inspire innovation, and contribute lasting advancements to society. We warmly invite you to explore the repository, share your insights, and join us in building a resilient foundation for future breakthroughs.
+>
+> <br><br>
+>
+> <h3 align="center">LICENSE AND USE</h3>
+>
+> <br>
+>
+> All materials hosted on this platform are distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Users must give proper credit to the Chief Engineer SR, clearly indicate any modifications made, and include a link to the license. Materials may not be used for commercial purposes without prior written consent. Any adapted or modified materials must be distributed under the same license to ensure adherence to open-source principles.
+>
+> Unless explicitly agreed upon in writing, all resources, tools, and guidance provided are intended solely for non-commercial use. Unauthorized commercial exploitation of proprietary content may result in legal action.
+>
+> <br><br>
+>
+> <h3 align="center">DISCLAIMER AND LIMITATIONS</h3>
+>
+> <br>
+>
+> While every effort is made to ensure the accuracy and reliability of the materials provided, they are offered "as is" without any guarantees. Users are strongly encouraged to independently verify all information and promptly notify the Administration of any discrepancies or errors. Constructive feedback is highly valued to maintain the highest standards of accuracy and reliability.
+>
+> All research documentation is developed and refined using advanced AI-driven tools, including large language models, natural language processing, and prompt engineering. Accompanying images and visuals are generated using state-of-the-art AI tools and are available for non-commercial use only.
+>
+> This platform disclaims all express or implied warranties, including but not limited to warranties of fitness for a particular purpose or merchantability. The Administration and its contributors shall not be held liable for any loss, damage, or harm resulting from the use or misuse of the resources—whether direct, indirect, incidental, or consequential.
+>
+> Any false, defamatory, or derogatory statements or actions directed toward the Administration, its contributors, or the resources provided will result in appropriate consequences. Users are encouraged to engage in respectful and constructive discourse to foster a positive, collaborative environment. Disputes will be addressed through mutual dialogue and mediation whenever possible.
+>
+> The Administration is committed to ethical research and development in full compliance with international legal standards. Activities that involve unauthorized software, or engage in unethical practices such as illegal hacking are strictly prohibited. All users must adhere to the governing cyber laws.
+>
+> <br>
+>
+> **The Administration reserves the right to modify this notice and the associated terms at any time. Users are advised to review these terms periodically to remain informed. Continued use of this repository constitutes acceptance of any amendments made.**
+>
+> -----
+
+<br><br><br><br><br><br><br><br>
+
+ 
 
 <h1 align="center">THE EVOLUTION OF COMPUTERS.</h1>
 
